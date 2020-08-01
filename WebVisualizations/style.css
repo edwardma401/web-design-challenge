@@ -1,0 +1,45 @@
+
+
+.summary{
+    color: palegreen;
+}
+
+.visual{
+    color: palegreen
+}
+
+.header{
+    background-color: palegreen;
+}
+
+body{
+    background-color: lightyellow;
+}
+
+#summary-img{
+    padding: 20px;
+}
+
+.topthing {
+    color: lightyellow;
+}
+
+.dropdown {
+    float: left;
+}
+
+#summarything {
+    background-color: white;
+}
+
+#visualthing {
+    background-color: white;
+    margin-left: 50px;
+    height: 200px;
+}
+
+@media (max-wdith:600px) {
+    .dropdown {
+        display: contents;
+    }
+}
