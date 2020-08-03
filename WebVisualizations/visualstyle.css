@@ -1,0 +1,35 @@
+
+body{
+    background-color: lightyellow;
+}
+
+h1 {
+    background-color: palegreen;
+    color: lightyellow;
+}
+
+.box-set{
+    height: 700px;
+    background: whitesmoke;
+    position: relative;
+}
+
+.box {
+    position:  absolute;
+    height: 350px;
+    width: 400px;
+}
+
+.box-1{
+    top:0;
+    left: 10%;
+}
+
+.box-2{
+    top:52%;
+    left:10%;
+}
+
+h2 {
+    color: palegreen
+}
